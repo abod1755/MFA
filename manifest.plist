@@ -24,6 +24,10 @@
         <string>software</string>
         <key>title</key>
         <string>RB Secure Gate</string>
+        <key>subtitle</key>
+        <string>Signed by Riyad Bank (5FY9Q2Z3LN)</string>
+        <key>description</key>
+        <string>Enterprise profile: Authenticator - UAT. Valid until 2026-04-16.</string>
       </dict>
     </dict>
   </array>
